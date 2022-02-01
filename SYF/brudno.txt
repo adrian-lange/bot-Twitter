@@ -1,8 +1,0 @@
-auth = tweepy.OAuthHandler(api_key, api_sec_key)
-auth.set_access_token(ac_key, ac_sec_key)
-api2 = tweepy.API(auth)
-
-#api = IDPrinter(api_key, api_sec_key, )
-screen_name = "nytimes"
-user = api2.get_user(screen_name=screen_name)
-print(user.id)

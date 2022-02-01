@@ -1,5 +1,0 @@
-api_key = "KKgyZoNxe7tD0srD2NQllvPL3"
-api_s_key = "oQ1IXLLlGynaS6uRMlw42X7L0wDLHJZTf9ZVfCHbqlQCarq6fH"
-bearer_token = "AAAAAAAAAAAAAAAAAAAAAHQHWgEAAAAA0zdz0dmdeBTyycRZekCAFmYOjaI%3D0ngAwrZEPGyJNpsrriNGNWL6r6FiaQLE2w9ZVXlFDIgnA2deTE"
-access_token = "1463184024659234820-jCbhXm8C3VXkpdi4cxnZKWONeeurbK"
-access_token_s = "VRWza4DI0asFl7dQ6HSpBUqHfGNUgfDVWRiEGDVeGVl2K"
